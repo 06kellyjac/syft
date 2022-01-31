@@ -37,10 +37,12 @@ require (
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pelletier/go-toml v1.9.4
+	github.com/pkg/errors v0.9.1
 	github.com/pkg/profile v1.5.0
 	github.com/scylladb/go-set v1.0.2
 	github.com/sergi/go-diff v1.2.0
 	github.com/sigstore/cosign v1.5.0
+	github.com/sigstore/sigstore v1.1.1-0.20220115165716-9f61ddc98390
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spdx/tools-golang v0.1.0
 	github.com/spf13/afero v1.8.0
